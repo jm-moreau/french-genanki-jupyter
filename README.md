@@ -17,3 +17,9 @@ It creates cards for testing:
   * requests
   * BeautifulSoup
   * yaml
+
+## To use:
+1. install required libraries
+1. save api key to bing_settings.yaml file
+1. open notebook from jupyter lab
+1. run all cells to test fire!
