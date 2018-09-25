@@ -10,7 +10,7 @@ It creates cards for testing:
 
 
 ## Requirements
-* You need to get a bing image api key, (which costs about $US 5 per 1000 queries)
+* You need to get a [MS Bing Image Search API Key](https://azure.microsoft.com/en-ca/services/cognitive-services/bing-image-search-api/), (which costs about $US 5 per 1000 queries)
 * you must install the following python libraries:
   * jupyterlab
   * python-resize-image
