@@ -1,0 +1,13 @@
+image_api_url: https://api.cognitive.microsoft.com/bing/v7.0/images/search
+subscription_key: # put your api key from MS here
+#subscription_key2
+license:    any
+imageType:  photo
+setLang:    FR 
+mkt:        fr-FR
+freshness:  Month
+imageType:  Photo
+license:    Any
+count:      3
+language:   fr #language for advance search parameter (within q=)
+loc:        fr #location, similar to above
