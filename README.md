@@ -27,3 +27,15 @@ It creates five cards per word for testing:
 1. save your bing image search api key to bing_settings.yaml file
 1. open notebook from jupyter lab
 1. run all cells to test fire!
+
+## Example cards
+
+<div> <img src="example-media/1.recall.front.png" width="250"> <img src="example-media/1.recall.back.png" width="250"></div>
+<br>
+<div> <img src="example-media/2.generate.front.png" width="250"> <img src="example-media/2.generate.back.png" width="250"></div>
+<br>
+<div> <img src="example-media/3.spelling.front.png" width="250"> <img src="example-media/3.spelling.back.png" width="250"></div>
+<br>
+<div> <img src="example-media/4.article.front.png" width="250"> <img src="example-media/4.article.back.png" width="250"></div>
+<br>
+<div> <img src="example-media/5.pron.front.png" width="250"> <img src="example-media/5.pron.back.png" width="250"></div>
