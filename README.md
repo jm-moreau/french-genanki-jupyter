@@ -1,5 +1,5 @@
 # french-genanki-jupyter
-A jupyter notebook for creating French anki cards.  The script loads a csv file of words to search, then it gets data from bing image search api, and collins dictionary.  The script tries to get culture / language specific images. This could be easily adapted to other languages & dictionaries.
+A jupyter notebook for creating French anki cards.  The script loads a csv file of words to search, then it gets data from bing image search api, and collins dictionary.  The script tries to get culture / language specific images. This could be easily adapted to other languages & dictionaries.  I was inspired by a [similar project for chinese "pre-study"](https://www.kerrickstaley.com/2018/09/04/chinese-prestudy).
 
 It creates five cards per word for testing:
 * comprehension based on the image (without words);
